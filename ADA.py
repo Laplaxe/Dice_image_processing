@@ -15,6 +15,6 @@ while 1:
     count = roll_counter.count_dots(cap)
     print(count)
     time.sleep(DELAY_TIME)
-#rabbia
+
 
 cap.release()
