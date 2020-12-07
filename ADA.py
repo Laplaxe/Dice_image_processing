@@ -16,4 +16,5 @@ while 1:
     print(count)
     time.sleep(DELAY_TIME)
 
+#commento
 cap.release()
